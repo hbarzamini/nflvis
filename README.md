@@ -43,16 +43,16 @@ First of all, as I am interested in the return yardage of a play type I would li
 ## Sketch: 
 One of the visualizations that I am looking for is shown below. This chart shows the total kick return yardage for each team consisting of which team results. 
 
-![Special team results](https://github.com/hbarzamini/nflvis/blob/main/sb1.jpg)
+![Special team results](https://github.com/hbarzamini/nflvis/raw/main/sb1.jpg)
 Please consider this image a berif scratch and did not contain all team results.
 Also we can used stack bar chert  to show the total kick return yardage for each special play type. 
-![Special team play type](https://github.com/hbarzamini/nflvis/blob/main/sb2.jpg)
+![Special team play type](https://github.com/hbarzamini/nflvis/raw/main/sb2.jpg)
 
 Another visualization I'll employ is a correlation matrix, which I'll use to determine the relationships between the various attributes. As seen in the following photos, two attributes have a higher association if they are darker in color (each atrributes has high correlation by itself so its correlation values is 1).
-![Correlation Matrix](https://github.com/hbarzamini/nflvis/blob/main/corr.jpeg)
+![Correlation Matrix](https://github.com/hbarzamini/nflvis/raw/main/corr.jpeg)
 
 Another way to show the correlation between parameter is scatter plot, so we can depict the correlation between each two attributes. For each attribute in correation matrix we can create a scater plot. Here you can see one skatch example for KickReturnYardage aginst of speed.
-![Scatter Plot](https://github.com/hbarzamini/nflvis/blob/main/sscat.jpeg)
+![Scatter Plot](https://github.com/hbarzamini/nflvis/raw/main/sscat.jpeg)
 
 ## Ideas
 
