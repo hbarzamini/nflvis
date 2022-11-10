@@ -57,3 +57,8 @@ Another way to show the correlation between parameter is scatter plot, so we can
 ## Ideas
 
 The depiction of the chart can be improved in a number of ways, including by including interactive methods. The user can select any additional attributes for the stack bar chart, like kick length, to compare it between several teams. Additionally, we may allow the user to modify the attributes in scatter plots. Additionally, we may use a variety of channels that the user can choose from to determine whether certain patterns and attributes are related.
+
+# Designs
+
+Please look at the [Designs](https://github.com/hbarzamini/nflvis/blob/main/Designs.md) page for a detailed explanation of my design choices.
+
